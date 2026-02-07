@@ -1,0 +1,18 @@
+[{
+ "name": "pL352",
+ "modelSeeds": [
+  "1982220722"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQRATDGNWGKSITWGSFVASDAGVVIFGINVCKNCVGERKDDISTDCGKQTLALLVSIFVAVTSGHHLIWGG",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

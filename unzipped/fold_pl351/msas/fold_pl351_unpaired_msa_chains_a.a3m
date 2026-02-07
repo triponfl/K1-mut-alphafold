@@ -1,0 +1,30 @@
+>query
+MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQRATDGNWGKSITWGSFVASDAGVVIFGINVCKNCVGERKDDISTDCGKQTLALLVSIFVAVTSGHHLIWGG
+>UniRef90_A0A0M0HIZ2/1-96 [subseq from] Rit1_C domain-containing protein (Fragment) n=1 Tax=Vibrio nereis TaxID=693 RepID=A0A0M0HIZ2_VIBNE
+--------------------------LNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQRATDGNWGKSITWGSFVASDAGVVIFGINVCKNCVGERKADSSTDCGKQTLALLVSIFVSV----------
+>UniRef90_Q87021/1-83 [subseq from] Killer virus of Yeast (S.cerevisiae), MD-1 RNA 3' terminal region (Fragment) n=1 Tax=Killer virus of S.cerevisiae TaxID=12477 RepID=Q87021_9VIRU
+MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQAATD-NWGKSITWGSFVASDAGV------------------------------------------------
+>UniRef90_Q82993/1-73 [subseq from] Secreted protein n=1 Tax=Killer virus of S.cerevisiae TaxID=12477 RepID=Q82993_9VIRU
+MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQAATD-NWGKSITH----------------------------------------------------------
+>UniRef90_A0A8S4QAR4/34-76 [subseq from] Odorant receptor n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8S4QAR4_OWEFU
+-----QFVVYSASTVYVNRLSFMVVAIKD-GPPAVVSVCHLIPKSSPWY-----------------------------------------------------------------------------------
+>UniRef90_A0A8S4QAR4/84-126 [subseq from] Odorant receptor n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8S4QAR4_OWEFU
+-----QFVVYSASTVYVNRLSFMVVAIKD-GPPANVSVCHLIPKSSPWY-----------------------------------------------------------------------------------
+>UniRef90_A0A8S4QAR4/134-177 [subseq from] Odorant receptor n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8S4QAR4_OWEFU
+-----QFVVYSASTVYVNRLSFMVVAIKD-GPPADVSVCHLIPKSSPWYT----------------------------------------------------------------------------------
+>UniRef90_A0A2B4RSB2/791-839 [subseq from] Hemicentin-2 (Fragment) n=1 Tax=Stylophora pistillata TaxID=50429 RepID=A0A2B4RSB2_STYPI
+-----------------------------------------------------------------------VTWTEVSTgnQSNGIMHYLANISRNDAGEYKCEAISDCGTSSASTFLTV--------------
+>UniRef90_A0A2B4RSB2/1328-1373 [subseq from] Hemicentin-2 (Fragment) n=1 Tax=Stylophora pistillata TaxID=50429 RepID=A0A2B4RSB2_STYPI
+-----------------------------------------------------------------------VTWTTpYGHSTAEKVLVVTNISRNQAGEYKCEASNDCGNAIETAII----------------
+>UniRef90_A0A2B4RSB2/1538-1583 [subseq from] Hemicentin-2 (Fragment) n=1 Tax=Stylophora pistillata TaxID=50429 RepID=A0A2B4RSB2_STYPI
+-----------------------------------------------------------------------VTWTTpYGHSTAEKVLVVTNISRNQAGEYKCEASNDCGNPIETAII----------------
+>A0A076FME7_SACPA/1-132 [subseq from] A0A076FME7_SACPA
+MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQRATDGNWGKSITWGSFVASDAGVVIFGINVCKNCVGERKDDSSTDCGKQTLALLVSIFVAVTSGHHLIWGG
+>SRR5579872_3651653/304-336 [subseq from] SRR5579872_3651653
+----------------------------------------------------------LVGSSTSGNWGGVVFYGSQLLGGNGTVVFGANN-----------------------------------------
+>SRR5579872_3651653/996-1028 [subseq from] SRR5579872_3651653
+----------------------------------------------------------LVGSSTNGNWGGVVFYGSQLLGGNGTVVFGANN-----------------------------------------
+>MGYP001359540822/18-119 [subseq from] MGYP001359540822
+---------------------LLILAVMPTAQPT----KDLSKRECPNYDQIRQVAAWVLTRPSRGT-QRALTYGAFGSGVVGCVIFAEHICSNCVGKHE-DSDNDCRNSALTLMATTFVAIAAGHSLL---
+>MGYP001322975701/9-92 [subseq from] MGYP001322975701
+---------------------------------------DLSKRECPNYDQIRQVAAWVLTRPSRGT-QRALTYGAFGSGVVGCVIFAEHICSNCVGKHE-DSDNDCRNSALTLMATTFVAIASR-------

@@ -1,0 +1,18 @@
+[{
+ "name": "pL313",
+ "modelSeeds": [
+  "1279808544"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPREAPWYDKIWEVKDWLLQRATDGNWGKSITWGSFVASDAGVVIFGINVCKNCVGERKDDISTDCGKQTLALLVSIFVAVTSGHHLIWGGNRPVSQSDPNGATVARRDISTVADGDIPLDFSALNDILNEHGISILEDTPS",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
